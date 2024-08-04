@@ -1,0 +1,7 @@
+let x := 5;
+read y;
+if x > y then
+print x;
+else
+print y;
+end
